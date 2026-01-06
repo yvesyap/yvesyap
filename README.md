@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Yves Yap (Yap Yang Yi)</h1>
+<h1 align="center">👋 Hi, I'm Yves</h1>
 <h3 align="center">🚀 Aspiring Data Analyst | Python & SQL | Analytics & Business Insights</h3>
 
 <p align="center">
