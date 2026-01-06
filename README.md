@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Yves Yap (Yap Yang Yi)</h1>
+<h1 align="center">👋 Hi, I'm Yves</h1>
 <h3 align="center">🚀 Aspiring Data Analyst | Python & SQL | Analytics & Business Insights</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Pursuing **Bachelor of Computer Science (Data Science)** at Multimedia University (MMU) – Expected Graduation: 2026
+- 🎓 Pursuing **Bachelor of Computer Science (Data Science)** at Multimedia University (MMU) – Expected Graduation: 2027
 - 💻 Interested in **data analytics, business intelligence, and beginner machine learning**
 - 📊 Skilled with **Python, SQL, Power BI, Tableau** for business problem solving
 - ⚡ I enjoy turning messy data into **clear insights and visual stories**
