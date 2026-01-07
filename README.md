@@ -2,8 +2,12 @@
 <h3 align="center">🚀 Aspiring Data Analyst | Python & SQL | Analytics & Business Insights</h3>
 
 <p align="center">
-  <img src="" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=00F7A3&center=true&vCenter=true&width=500&lines=Turning+Data+into+Insights;Building+Dashboards+%26+Reports;Exploring+Analytics;Learning+for+Impact"
+    alt="Typing SVG"
+  />
 </p>
+
 
 ---
 
@@ -43,7 +47,7 @@
 ### 🧩 Tools & Workflow
 <p>
   <img src="https://logo.svgcdn.com/devicon/git-original.svg" title="Git" width="120" />
-  <img src="https://logo.svgcdn.com/devicon/github-original.svg" title="GitHub" width="120" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" title="GitHub" width="120" />
   <img src="https://logo.svgcdn.com/devicon/jupyter-original.svg" title="Jupyter" width="120" />
   <img src="https://logo.svgcdn.com/devicon/vscode-original.svg" title="VS Code" width="120" />
 </p>
@@ -61,22 +65,31 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="" height="165" />
-  <img src="" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YvesYap&bg_color=141321&color=00F7A3&line=00F7A3&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="#"><img src="" /></a>
-  <a href="#"><img src="" /></a>
-  <a href="#"><img src="" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
 ### 🧩 Quote of the Day
-<img src="" width="120" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Customer%20behavior%20is%20the%20signal.%20Data%20is%20how%20we%20learn%20to%20listen.&author=ChatGPT&color=00F7A3" />
+</p>
+
 
 *Last Updated: January 7, 2026*
