@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Yves</h1>
-<h3 align="center">🚀 Aspiring Data Analyst | Python & SQL | Analytics & Business Insights</h3>
+<h3 align="center">🚀 Aspiring Data Science Student | Python & SQL & R | Analytics & Business Insights</h3>
 
 <p align="center">
   <img 
@@ -13,8 +13,8 @@
 
 ### 🧠 About Me
 - 🎓 Pursuing **Bachelor of Computer Science (Data Science)** at Multimedia University (MMU) – Expected Graduation: 2027
-- 💻 Interested in **data analytics, business intelligence, and beginner machine learning**
-- 📊 Skilled with **Python, SQL, Power BI, Tableau** for business problem solving
+- 💻 Interested in **data analytics, business intelligence, and machine learning**
+- 📊 Skilled with **Python, SQL, R** for business problem solving
 - ⚡ I enjoy turning messy data into **clear insights and visual stories**
 
 ---
@@ -23,12 +23,12 @@
 
 ### 🧠 Data & Analytics
 <p>
-  <img src="https://logo.svgcdn.com/devicon/python-original.svg" title="Python" width="120" />
-  <img src="https://logo.svgcdn.com/devicon/pandas-original.svg" title="Pandas" width="120" />
-  <img src="https://logo.svgcdn.com/logos/numpy.svg" title="NumPy" width="120" />
-  <img src="https://logo.svgcdn.com/devicon/matplotlib-original.svg" title="Matplotlib" width="120" />
-  <img src="https://logo.svgcdn.com/logos/seaborn.svg" title="Seaborn" width="120" />
-  <img src="https://logo.svgcdn.com/devicon/scikitlearn-original.svg" title="Scikit‑learn" width="120" />
+  <img src="https://logo.svgcdn.com/devicon/python-original.svg" title="Python" width="80" />
+  <img src="https://logo.svgcdn.com/devicon/r-original.svg" title="R Programming" width="80" />
+  <img src="https://logo.svgcdn.com/devicon/pandas-original.svg" title="Pandas" width="80" />
+  <img src="https://logo.svgcdn.com/logos/numpy.svg" title="NumPy" width="80" />
+  <img src="https://logo.svgcdn.com/devicon/matplotlib-original.svg" title="Matplotlib" width="80" />
+
 </p>
 
 ### ⚙️ Databases & SQL
@@ -40,8 +40,8 @@
 
 ### 📊 Data Visualization & BI
 <p>
-  <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/microsoft-power-bi-logo-hd.png" title="Power BI" width="120" />
-  <img src="https://www.pngmart.com/files/23/Tableau-Logo-PNG-HD.png" title="Tableau" width="180" />
+  <img src="https://logo.svgcdn.com/devicon/r-original.svg" title="ggplot2 (R)" width="100" />
+  <img src="https://logo.svgcdn.com/logos/seaborn.svg" title="Seaborn" width="100" />
 </p>
 
 ### 🧩 Tools & Workflow
@@ -54,12 +54,12 @@
 
 ---
 
-## 📂 Projects (Portfolio-ready)
+## 📂 Projects (Portfolio-ongoing)
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Customer Retention Analytics](#) | Predict customer churn and recommend business actions | Python, SQL, Power BI |
-| [Product Analytics Dashboard](#) | Analyze user behavior & metrics | Python, SQL, Tableau |
-| [Credit Risk Analysis](#) | Evaluate loan default risk | Python, Pandas, Scikit‑learn |
+[**E-commerce Demand Velocity Study**](#) | Analyzed 20k+ Shopee records to model Price Elasticity and Demand Trends | **R, SQL, Statistics** |
+| [**Logistics Geographic Extraction**](#) | Programmatically extracted seller origins from unstructured text to map regional efficiency | **Python, Excel** |
+| [**Unit Economics Calculator**](#) | Dashboard for assessing the volatility of freight costs vs. product asset values | **R** |
 
 ---
 
@@ -88,8 +88,8 @@
 
 ### 🧩 Quote of the Day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Customer%20behavior%20is%20the%20signal.%20Data%20is%20how%20we%20learn%20to%20listen.&author=ChatGPT&color=00F7A3" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Dashboard%20is%20the%20signal,%20data%20is%20what%20we%20learn%20to%20listen.&author=Google&color=00F7A3" />
 </p>
 
 
-*Last Updated: January 7, 2026*
+*Last Updated: April 13, 2026*
