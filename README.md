@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yang Yi (Yves) 👋</h1>
+<h1 align="center">Hi, I'm Yang Yi (Yves) </h1>
 <p align="center">
   <b>Computer Science (Data Science) · Multimedia University, Cyberjaya · Graduating 2027</b><br/>
   Seeking internship from <b>July 2026</b>
@@ -46,9 +46,9 @@
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🛒 Shopee Malaysia — Demand & Price Elasticity Analysis
+### Shopee Malaysia — Demand & Price Elasticity Analysis
 > R · Statistical Analysis · **Completed**
 
 Analysed 20,000+ Shopee Malaysia transactions across 8 product categories to investigate whether price drives sales volume.
@@ -64,7 +64,7 @@ Dataset: [Shopee Sales Data Apr - May 2023 — Kaggle (other)](https://www.kaggl
 
 ---
 
-### 🌍 Global Sustainable Energy — Cross-National Analysis (2000–2020)
+### Global Sustainable Energy — Cross-National Analysis (2000–2020)
 > Python · Pandas · Seaborn · Scikit-learn · SciPy · **In Progress**
 
 End-to-end data science pipeline analysing 3,649 observations across 176 countries and 21 years to investigate how economic development and energy consumption patterns influence renewable energy adoption and CO₂ emissions globally.
@@ -85,11 +85,11 @@ Dataset: [Global Data on Sustainable Energy — Kaggle (CC0)](https://www.kaggle
 
 ---
 
-## 🏅 Certifications & Awards
+## Certifications & Awards
 
 | Award | Year |
 |-------|------|
-| 🥇 Huawei ICT Competition 2023–2024 APAC — National Phase (Computing Track) | 2024 |
-| 📋 HCIA-openGauss V1.0 — Huawei Certified ICT Associate | 2024 |
-| 📋 Huawei Data Management and Analytics Course Certificate | 2024 |
-| 🎓 Dean's List — Foundation in IT, Nov 2023 Trimester (GPA: 3.89) | 2023 |
+| Huawei ICT Competition 2023–2024 APAC — National Phase (Computing Track) | 2024 |
+| HCIA-openGauss V1.0 — Huawei Certified ICT Associate | 2024 |
+| Huawei Data Management and Analytics Course Certificate | 2024 |
+| Dean's List — Foundation in IT, Nov 2023 Trimester (GPA: 3.89) | 2023 |
