@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Yang Yi (Yves) </h1>
+<h1 align="center">Hi, I'm Yang Yi (Yves)</h1>
 <p align="center">
-  <b>Computer Science (Data Science) · Multimedia University, Cyberjaya · Graduating 2027</b><br/>
-  Seeking internship from <b>July 2026</b>
+  <b>Final year · BSc (Hons) Computer Science — Data Science</b><br/>
+  Multimedia University, Cyberjaya · Graduating 2027
 </p>
 <p align="center">
   I work with messy, real-world datasets — cleaning them, modelling them, and turning the results into something a business can actually use.<br/>
-  Currently focused on statistical analysis and predictive modelling using Python and R.
+  Currently focused on statistical analysis and predictive modelling in Python and R, working towards machine learning engineering.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/yang-yi-yap-2b3125284/">
@@ -22,26 +22,28 @@
 
 ### Languages & Data
 <p>
-  <img src="https://logo.svgcdn.com/devicon/python-original.svg" title="Python" width="60" />
-  <img src="https://logo.svgcdn.com/devicon/r-original.svg" title="R" width="60" />
-  <img src="https://logo.svgcdn.com/devicon/pandas-original.svg" title="Pandas" width="60" />
-  <img src="https://logo.svgcdn.com/logos/numpy.svg" title="NumPy" width="60" />
-  <img src="https://logo.svgcdn.com/devicon/matplotlib-original.svg" title="Matplotlib" width="60" />
-  <img src="https://logo.svgcdn.com/devicon/scikitlearn-original.svg" title="Scikit-learn" width="60" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://logo.svgcdn.com/devicon/mysql-original.svg" title="MySQL" width="60" />
-  <img src="https://logo.svgcdn.com/devicon/postgresql-original.svg" title="PostgreSQL" width="60" />
-  <img src="https://logo.svgcdn.com/devicon/sqlite-original.svg" title="SQLite" width="60" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://logo.svgcdn.com/devicon/git-original.svg" title="Git" width="60" />
-  <img src="https://logo.svgcdn.com/devicon/jupyter-original.svg" title="Jupyter" width="60" />
-  <img src="https://logo.svgcdn.com/devicon/vscode-original.svg" title="VS Code" width="60" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -49,14 +51,15 @@
 ## Projects
 
 ### Shopee Malaysia — Demand & Price Elasticity Analysis
-> R · Statistical Analysis · **Completed**
+> R · Statistical Analysis · Regression · **Completed**
 
 Analysed 20,000+ Shopee Malaysia transactions across 8 product categories to investigate whether price drives sales volume.
 
 **Key findings:**
-- Sales volume CV = **217.99**, Price CV = **266.77** — highly volatile marketplace with extreme right-skewed distributions
-- QQ-plot and correlation analysis confirmed a **non-linear, negative price–volume relationship**
-- **Conclusion:** Price alone is not a reliable predictor of sales on Shopee Malaysia; non-price factors (reviews, logistics, seller reputation) dominate
+- Sales volume CV = **217.99**, Price CV = **266.77** — a highly volatile marketplace with extreme right-skewed distributions
+- On the raw scale the linear relationship is negligible: Pearson **r = −0.086**, explaining under **1%** of variance in sales volume
+- A **log–log transformation** recovered the underlying elasticity, lifting R² to approximately **65%**
+- **Conclusion:** the price–volume relationship is multiplicative rather than linear; linear correlation alone materially understates price sensitivity on this marketplace
 
 Built a custom R text-parsing pipeline to extract geographic seller metadata from unstructured fields.
 
@@ -65,7 +68,7 @@ Dataset: [Shopee Sales Data Apr - May 2023 — Kaggle (other)](https://www.kaggl
 ---
 
 ### Global Sustainable Energy — Cross-National Analysis (2000–2020)
-> Python · Pandas · Seaborn · Scikit-learn · SciPy · **In Progress**
+> Python · Pandas · Seaborn · Scikit-learn · SciPy · **Completed**
 
 End-to-end data science pipeline analysing 3,649 observations across 176 countries and 21 years to investigate how economic development and energy consumption patterns influence renewable energy adoption and CO₂ emissions globally.
 
